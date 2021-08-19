@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer Repositorio
+Mi primer rama de repositorio
 
 Autor: Gabriel R.
 Fecha: 19 de agosto
